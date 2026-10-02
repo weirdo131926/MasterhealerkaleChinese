@@ -1,0 +1,121 @@
+{
+  "package": "MasterHealerKale_CN_v11_20261001",
+  "date": "2026-10-02",
+  "game_version": "V1.5",
+  "files": {
+    "winhttp.dll": {
+      "sha1": "f4ec55af52c60765f7d98a343f52ead74c6a1927",
+      "size": 26112
+    },
+    "doorstop_config.ini": {
+      "sha1": "7a21f8110f36dd3beed80393e584772be7a98918",
+      "size": 1460
+    },
+    ".doorstop_version": {
+      "sha1": "24081282f3a9a62c341308c388d8ed137057665d",
+      "size": 5
+    },
+    "BepInEx/plugins/KaleZh.dll": {
+      "sha1": "d108ce7cb1971bcf20441dec24906babf235a2c6",
+      "size": 25088
+    },
+    "BepInEx/config/KaleZh/translations.txt": {
+      "sha1": "c7da649c9cdf28fe3b9340d92ecbaee7b93f36bc",
+      "size": 122395
+    },
+    "BepInEx/config/KaleZh/names.txt": {
+      "sha1": "33174a400bb4c778783be1e7a1282dbfd37adeba",
+      "size": 946
+    },
+    "BepInEx/config/KaleZh/regex.txt": {
+      "sha1": "d79adde8c26bb648a38dec60935e8b2517db0e28",
+      "size": 1863
+    },
+    "BepInEx/config/KaleZh/fixes.txt": {
+      "sha1": "3f5ea43abc366168be671371c91e641e509ca236",
+      "size": 13640
+    },
+    "BepInEx/config/KaleZh/font.ttf": {
+      "sha1": "39929854a0f6167a4057ecd7b00509ac0649d1d7",
+      "size": 493408
+    },
+    "MasterHealerKale_Data/sharedassets0.assets": {
+      "sha1": "eb31533c1f77277614498265823c0c78e5d736b4",
+      "size": 984288
+    },
+    "MasterHealerKale_Data/resources.assets": {
+      "sha1": "360b2db4c8a17f627521b5fcdfc57edd3eb22958",
+      "size": 2007192
+    },
+    "MasterHealerKale_Data/level0": {
+      "sha1": "77429f57b0e5052e7e769039530899acf622090d",
+      "size": 1967292
+    },
+    "MasterHealerKale_Data/globalgamemanagers.assets": {
+      "sha1": "ad8a7af87d474933fe8efb26d429e3ba09f3ab8a",
+      "size": 1247204
+    },
+    "MasterHealerKale_Data/Managed/Assembly-CSharp.dll": {
+      "sha1": "5ab60b940e6debf14e31e50f2f99861d4a4cc1a2",
+      "size": 654336
+    },
+    "BepInEx/core/0Harmony.dll": {
+      "sha1": "aa1552cf0311f27ca02d34df0558a718d16fb660",
+      "size": 204800
+    },
+    "BepInEx/core/0Harmony20.dll": {
+      "sha1": "4c42a69a0d91f4bfe13d7c2e3cd15224fd12485c",
+      "size": 112640
+    },
+    "BepInEx/core/BepInEx.dll": {
+      "sha1": "351f5a98def807df816a359094d29ade067b7cc9",
+      "size": 128512
+    },
+    "BepInEx/core/BepInEx.Harmony.dll": {
+      "sha1": "4e51738a3576888393916eb7e3ff62cd61bb32ff",
+      "size": 6656
+    },
+    "BepInEx/core/BepInEx.Preloader.dll": {
+      "sha1": "5ef53c80c1649630ad148e20e6944b9f4efe6ed7",
+      "size": 43008
+    },
+    "BepInEx/core/HarmonyXInterop.dll": {
+      "sha1": "a788c6199d1c7ccb6ce17f09996875911d26af46",
+      "size": 23552
+    },
+    "BepInEx/core/Mono.Cecil.dll": {
+      "sha1": "7c8b821367897baa1b78157d5cea0767f424bc40",
+      "size": 339456
+    },
+    "BepInEx/core/Mono.Cecil.Mdb.dll": {
+      "sha1": "d4c514fbac7a30ddee7d0f597c3eae23a32ccedc",
+      "size": 43008
+    },
+    "BepInEx/core/Mono.Cecil.Pdb.dll": {
+      "sha1": "dc968ab6e3f9202b5550efb04c0e17c1df04d7d7",
+      "size": 86528
+    },
+    "BepInEx/core/Mono.Cecil.Rocks.dll": {
+      "sha1": "b842aa70ac6ff9cc3922189e971a62659299ef64",
+      "size": 27648
+    },
+    "BepInEx/core/MonoMod.RuntimeDetour.dll": {
+      "sha1": "9c599b3c60f92bd3663042dc0781be78e2ff0882",
+      "size": 105984
+    },
+    "BepInEx/core/MonoMod.Utils.dll": {
+      "sha1": "bc258633aab1a2a1839dcc44eed944d865fd6038",
+      "size": 187904
+    },
+    "BepInEx/core/XUnity.Common.dll": {
+      "sha1": "58c503a59e5c36a75d78e9fb39401a106c1f3b83",
+      "size": 77824
+    },
+    "安装说明.txt": {
+      "sha1": "ee1589dc967f248d852b5cf7fa43cbfc0aebd72e"
+    },
+    "更新日志.txt": {
+      "sha1": "8cf47a9e4859bf28ca5247e40c8a3d7698d2c158"
+    }
+  }
+}
