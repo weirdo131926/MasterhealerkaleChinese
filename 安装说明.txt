@@ -1,18 +1,25 @@
-﻿安装
+﻿Master Healer Kale with useless party_CN_V1.1
+适用游戏版本：V1.5
+构建日期：2026-10-03
+
+【安装】
 1. 关闭游戏（在 Steam 中完全退出）。
 2. 将本压缩包内的全部文件解压到游戏根目录，遇到同名文件选择覆盖。
    游戏根目录示例：
      ...\steamapps\common\Master Healer Kale\Master Healer Kale\
    （该目录下应能看到 MasterHealerKale.exe）
-包内内容
+
+【包内内容】
 - BepInEx 5.4.23.5（含 Harmony 运行时）+ winhttp.dll + doorstop_config.ini
 - KaleZh 汉化插件（BepInEx/plugins/KaleZh.dll）
 - 插件词典与配置（BepInEx/config/KaleZh/）
 - 已翻译的游戏数据文件（MasterHealerKale_Data 下 5 个文件）
 
-卸载 / 回滚
+【卸载 / 回滚】
 - 只回滚游戏文本：Steam 库 → 右键游戏 → 属性 → 已安装文件 → 验证游戏文件完整性。
 - 完全移除插件：删除游戏目录下的 BepInEx 文件夹，以及 winhttp.dll、doorstop_config.ini。
 
-兼容性说明
+【兼容性说明】
 - 请勿与本补丁同时启用 XUnity AutoTranslator，二者会冲突。
+- 中文使用系统字体渲染（微软雅黑 / 黑体等），无需额外设置。
+

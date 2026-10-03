@@ -1,6 +1,6 @@
 {
-  "package": "MasterHealerKale_CN_v11_20261001",
-  "date": "2026-10-02",
+  "package": "Master Healer Kale with useless party_CN_V1.1",
+  "date": "2026-10-03",
   "game_version": "V1.5",
   "files": {
     "winhttp.dll": {
@@ -16,12 +16,12 @@
       "size": 5
     },
     "BepInEx/plugins/KaleZh.dll": {
-      "sha1": "d108ce7cb1971bcf20441dec24906babf235a2c6",
+      "sha1": "b4f7c3fd0c380d36c6dfaad4aa5e8a2825c1671a",
       "size": 25088
     },
     "BepInEx/config/KaleZh/translations.txt": {
-      "sha1": "c7da649c9cdf28fe3b9340d92ecbaee7b93f36bc",
-      "size": 122395
+      "sha1": "2ef2bdbc759108a3c2fbec7a5ced85c5ccb29079",
+      "size": 122417
     },
     "BepInEx/config/KaleZh/names.txt": {
       "sha1": "33174a400bb4c778783be1e7a1282dbfd37adeba",
@@ -32,15 +32,15 @@
       "size": 1863
     },
     "BepInEx/config/KaleZh/fixes.txt": {
-      "sha1": "3f5ea43abc366168be671371c91e641e509ca236",
-      "size": 13640
+      "sha1": "4d60a6036142867a86696954268c87298b4129a7",
+      "size": 16133
     },
     "BepInEx/config/KaleZh/font.ttf": {
       "sha1": "39929854a0f6167a4057ecd7b00509ac0649d1d7",
       "size": 493408
     },
     "MasterHealerKale_Data/sharedassets0.assets": {
-      "sha1": "eb31533c1f77277614498265823c0c78e5d736b4",
+      "sha1": "b4cf20d5ef50978fb32eaeef0cbe4b9b52ecc6e2",
       "size": 984288
     },
     "MasterHealerKale_Data/resources.assets": {
@@ -112,10 +112,10 @@
       "size": 77824
     },
     "安装说明.txt": {
-      "sha1": "ee1589dc967f248d852b5cf7fa43cbfc0aebd72e"
+      "sha1": "f1083f38cfd4b7c12971fc81f5e5b149b2278737"
     },
     "更新日志.txt": {
-      "sha1": "8cf47a9e4859bf28ca5247e40c8a3d7698d2c158"
+      "sha1": "d5db13112cb85fada99151d815b2c9171330b3dc"
     }
   }
 }
