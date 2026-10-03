@@ -10,7 +10,7 @@
 
 ## 下载
 
-[点击下载最新版本](https://github.com/weirdo131926/MasterhealerkaleChinese/releases/tag/Kale_zh)
+[点击下载最新版本](https://github.com/weirdo131926/MasterhealerkaleChinese/releases)
 
 ## 安装
 
